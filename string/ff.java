@@ -1,5 +1,5 @@
 
-package STRING_GFG;
+package string;
 
 class ff {
     public static void main(String[] args) {

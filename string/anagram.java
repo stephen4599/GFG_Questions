@@ -1,4 +1,4 @@
-package STRING_GFG;
+package string;
 
 import java.util.Arrays;
 

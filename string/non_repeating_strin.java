@@ -1,4 +1,4 @@
-package STRING_GFG;
+package string;
 
 public class non_repeating_strin {
     public static void main(String[] args) {

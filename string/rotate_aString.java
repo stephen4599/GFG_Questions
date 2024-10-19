@@ -1,4 +1,4 @@
-package STRING_GFG;
+package string;
 public class rotate_aString {
     public static boolean rotate(String str1,String str2){
         int n=str1.length()-1;

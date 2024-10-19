@@ -1,4 +1,4 @@
-package STRING_GFG;
+package string;
 public class reverse_word {
 
 

@@ -1,4 +1,4 @@
-package STRING_GFG;
+package string;
 
 public class jack {
     public static void sr(String a,String b){

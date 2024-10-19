@@ -1,5 +1,5 @@
 
-package STRING_GFG;
+package string;
 import java.util.ArrayList;
 class print_pattern{
 public static void main(String[] args) {
