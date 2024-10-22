@@ -1,3 +1,4 @@
+package string;
 public class q10rotate_string {
     public static void main(String[] args) {
         String a= "t";
